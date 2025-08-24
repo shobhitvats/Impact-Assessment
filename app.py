@@ -173,7 +173,7 @@ class StreamlitPipelineUI:
         self.config.transvar.ref_version = st.sidebar.selectbox(
             "Reference Version",
             options=["hg19", "hg38"],
-            index=["hg19", "hg38"].index(ref_value),
+            index=["hg19", "hg38"].index(ref_value) if ref_value in ["hg19", "hg38"] else 0,
             help="Reference genome version"
         )
         
@@ -184,17 +184,27 @@ class StreamlitPipelineUI:
         )
         
         self.config.transvar.reference_file = st.sidebar.text_input(
-            "Reference FASTA (optional)",
-            value=self.config.transvar.reference_file or "",
-            help="⚠️ Path to reference FASTA file - improves annotation accuracy"
+            "Reference FASTA",
+            value=self.config.transvar.reference_file or "/workspaces/Impact-Assessment/hg19.fa",
+            help="🧬 Path to reference FASTA file (hg19.fa located in project directory)"
         )
+        
+        # Check reference genome status
+        ref_exists, ref_message = self.config.check_reference_genome()
+        if ref_exists:
+            st.sidebar.success(f"✅ {ref_message}")
+        else:
+            st.sidebar.error(f"❌ {ref_message}")
+            if "download" in ref_message:
+                if st.sidebar.button("📥 Download hg19 Reference"):
+                    st.sidebar.info("Run: `scripts/download_reference_genomes.sh` in terminal")
         
         # Processing Configuration
         st.sidebar.subheader("Processing Settings")
         self.config.processing.max_workers = st.sidebar.slider(
             "Max Workers",
             min_value=1,
-            max_value=16,
+            max_value=32,
             value=self.config.processing.max_workers,
             help="Number of parallel processing threads"
         )
@@ -232,6 +242,53 @@ class StreamlitPipelineUI:
             value=self.config.paths.json_to_csv_script or "",
             help="Path to JSON to CSV converter script"
         )
+        
+        # CSV Output Preferences
+        st.sidebar.subheader("CSV Output Preferences")
+        
+        # CSV converter selection
+        csv_converter_type = st.sidebar.radio(
+            "CSV Converter Type:",
+            options=["Enhanced (with protein changes & transcript preferences)", "Basic (simple format)"],
+            index=0 if "enhanced" in (self.config.paths.json_to_csv_script or "").lower() else 1,
+            help="Choose between enhanced converter with protein changes or basic converter"
+        )
+        
+        # Update the script path based on selection
+        if csv_converter_type.startswith("Enhanced"):
+            self.config.paths.json_to_csv_script = "/workspaces/Impact-Assessment/external_tools/enhanced_json_to_csv.py"
+        else:
+            self.config.paths.json_to_csv_script = "/workspaces/Impact-Assessment/external_tools/mock_json_to_csv.py"
+        
+        # CSV output options
+        if csv_converter_type.startswith("Enhanced"):
+            include_protein_changes = st.sidebar.checkbox(
+                "Include Protein Changes",
+                value=True,
+                help="✅ Extract and display protein changes (e.g., p.Arg123Gln) in separate column"
+            )
+            
+            include_transcript_preferences = st.sidebar.checkbox(
+                "Show Preferred Transcript Status",
+                value=True,
+                help="✅ Indicate whether each transcript is preferred (MANE Select, RefSeq, etc.)"
+            )
+            
+            include_preference_details = st.sidebar.checkbox(
+                "Include Preference Reasoning",
+                value=False,
+                help="Show detailed reasoning for transcript preference classification"
+            )
+            
+            # Store these preferences in session state for use during processing
+            st.session_state.csv_preferences = {
+                'include_protein_changes': include_protein_changes,
+                'include_transcript_preferences': include_transcript_preferences,
+                'include_preference_details': include_preference_details
+            }
+        
+        # Display current CSV configuration
+        st.sidebar.info(f"📋 Current converter: {Path(self.config.paths.json_to_csv_script or '').name}")
         
         # Knowledge Bases Configuration
         st.sidebar.subheader("Knowledge Bases")

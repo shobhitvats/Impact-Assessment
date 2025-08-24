@@ -19,9 +19,9 @@ def convert_tps_json_to_csv(input_json, output_csv):
     
     # Define CSV columns
     fieldnames = [
-        'variant_id', 'gene', 'transcript', 'hgvsc', 'hgvsp', 'variant_type',
-        'clinical_significance', 'evidence', 'acmg_criteria', 'confidence',
-        'gnomad_af', 'gnomad_ac', 'gnomad_an',
+        'variant_id', 'gene', 'transcript', 'preferred_transcript', 'hgvsc', 'hgvsp', 
+        'protein_change', 'variant_type', 'clinical_significance', 'evidence', 
+        'acmg_criteria', 'confidence', 'gnomad_af', 'gnomad_ac', 'gnomad_an',
         'sift_score', 'sift_prediction', 'polyphen_score', 'polyphen_prediction',
         'cadd_phred', 'diseases', 'therapeutic_implications'
     ]
@@ -47,12 +47,28 @@ def convert_tps_json_to_csv(input_json, output_csv):
                 for t in variant.get('therapeuticImplications', [])
             ])
             
+            # Extract protein change from hgvsp or create it
+            hgvsp = variant.get('hgvsp', '')
+            protein_change = ""
+            if hgvsp:
+                # Extract just the protein change part (e.g., "p.Arg123Gln" from "NP_000123.1:p.Arg123Gln")
+                if ':' in hgvsp:
+                    protein_change = hgvsp.split(':')[-1]
+                else:
+                    protein_change = hgvsp
+            
+            # Determine preferred transcript (in production this would come from database)
+            transcript = variant.get('transcript', '')
+            preferred_transcript = "Yes" if transcript and any(x in transcript.lower() for x in ['nm_', 'refseq', 'mane']) else "No"
+            
             row = {
                 'variant_id': variant.get('variant', ''),
                 'gene': variant.get('gene', ''),
-                'transcript': variant.get('transcript', ''),
+                'transcript': transcript,
+                'preferred_transcript': preferred_transcript,
                 'hgvsc': variant.get('hgvsc', ''),
-                'hgvsp': variant.get('hgvsp', ''),
+                'hgvsp': hgvsp,
+                'protein_change': protein_change,
                 'variant_type': variant.get('variantType', ''),
                 'clinical_significance': clinical_sig.get('classification', ''),
                 'evidence': clinical_sig.get('evidence', ''),

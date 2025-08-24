@@ -2,6 +2,29 @@
 
 A comprehensive, production-grade genomics automation application that automates the Impact Assessment process from VCF input to final report output in one click.
 
+## 🚀 Quick Setup
+
+### 1. Download Reference Genome
+```bash
+# Download hg19 reference genome (required for accurate annotation)
+scripts/download_reference_genomes.sh
+```
+
+### 2. Start the Application
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Start the Streamlit UI
+streamlit run app.py
+```
+
+### 3. Default Configuration
+The pipeline is pre-configured with optimal defaults:
+- **Reference**: hg19 (automatically detected at `/workspaces/Impact-Assessment/hg19.fa`)
+- **Threads**: 16 (adjustable up to 32)
+- **CSV Format**: Enhanced with protein changes and preferred transcript analysis
+
 ## 🌟 Features
 
 ### Complete Pipeline Automation

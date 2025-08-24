@@ -1,2 +1,5 @@
+# Large reference files - use download script to obtain
 hg19.fa
 hg19.fa.fai
+
+# Note: Use scripts/download_reference_genomes.sh to download these files

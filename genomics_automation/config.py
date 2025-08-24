@@ -34,7 +34,7 @@ class TransVarConfig(BaseModel):
         description="Annotation database"
     )
     ref_version: ReferenceVersion = Field(
-        default_factory=lambda: ReferenceVersion(os.getenv("GENOMICS_TRANSVAR_REF_VERSION", "hg38")),
+        default_factory=lambda: ReferenceVersion(os.getenv("GENOMICS_TRANSVAR_REF_VERSION", "hg19")),
         description="Reference genome version"
     )
     use_ccds: bool = Field(
@@ -42,7 +42,7 @@ class TransVarConfig(BaseModel):
         description="Use CCDS annotations"
     )
     reference_file: Optional[str] = Field(
-        default_factory=lambda: os.getenv("GENOMICS_TRANSVAR_REFERENCE_FILE"),
+        default_factory=lambda: os.getenv("GENOMICS_TRANSVAR_REFERENCE_FILE", "/workspaces/Impact-Assessment/hg19.fa"),
         description="Path to reference FASTA file"
     )
     executable: str = Field(
@@ -55,7 +55,7 @@ class TransVarConfig(BaseModel):
 class ProcessingConfig(BaseModel):
     """Processing and performance configuration."""
     max_workers: int = Field(
-        default_factory=lambda: int(os.getenv("GENOMICS_MAX_WORKERS", "4")),
+        default_factory=lambda: int(os.getenv("GENOMICS_MAX_WORKERS", "16")),
         ge=1, le=32, description="Maximum number of worker threads"
     )
     timeout_seconds: int = Field(
@@ -150,6 +150,26 @@ class Config(BaseModel):
                 print(f"Warning: Path {field}={path_value} does not exist")
         
         return v
+    
+    def check_reference_genome(self) -> tuple[bool, str]:
+        """
+        Check if reference genome file exists and provide guidance.
+        
+        Returns:
+            Tuple of (exists, message)
+        """
+        if not self.transvar.reference_file:
+            return False, "No reference file configured"
+        
+        ref_path = Path(self.transvar.reference_file)
+        if ref_path.exists():
+            file_size = ref_path.stat().st_size / (1024**3)  # GB
+            return True, f"Reference genome ready ({file_size:.1f} GB)"
+        else:
+            return False, (
+                f"Reference file not found: {self.transvar.reference_file}\n"
+                "💡 Run: scripts/download_reference_genomes.sh to download hg19"
+            )
     
     @classmethod
     def from_env(cls) -> "Config":
