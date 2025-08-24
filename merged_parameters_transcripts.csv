@@ -1,0 +1,1050 @@
+Gene,Variant,VCF,Preferred_Transcript
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA1,CNV loss,Ovarian_loss.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),ovarian.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),ovarian.vcf,NM_007294.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,CNV loss,Ovarian_loss.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA1,CNV loss,ovarian.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,CNV loss,ovarian.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),pancreatic.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),pancreatic.vcf,NM_007294.3
+BRCA1,p.Arg1670ThrfsTer9,pancreatic.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),pancreatic.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),pancreatic.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),pancreatic.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,pancreatic.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),pancreatic.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),pancreatic.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),pancreatic.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),pancreatic.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),pancreatic.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),pancreatic.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,pancreatic.vcf,NM_000059.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr790Met),NSCLC.vcf,NM_005228.3
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM1-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM1-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM1-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM1-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM1-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+EGFR,p.(His773dup),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+ERBB2,p.(Ser310Phe),NSCLC.vcf,NM_004448.2
+ERBB2,p.Ser310Tyr,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Arg678Gln),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Thr733Ile),NSCLC.vcf,NM_004448.2
+ERBB2,p.Leu755Ala,NSCLC.vcf,NM_004448.2
+ERBB2,p.Leu755Met,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Leu755Pro),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Leu755Ser),NSCLC.vcf,NM_004448.2
+ERBB2,p.Leu755Trp,NSCLC.vcf,NM_004448.2
+ERBB2,p.Ile767Phe,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Ile767Met),NSCLC.vcf,NM_004448.2
+ERBB2,p.Asp769His,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Asp769Asn),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Asp769Tyr),NSCLC.vcf,NM_004448.2
+ERBB2,p.Tyr772_Ala775dup,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Ala775_Gly776insThrValMetAla),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Ala775_Gly776insVal),NSCLC.vcf,NM_004448.2
+ERBB2,p.Tyr772_Ala775dup,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly776Ser),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly776Cys),NSCLC.vcf,NM_004448.2
+ERBB2,p.Gly776Val,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly776_Val777delinsCysValCysGly),NSCLC.vcf,NM_004448.2
+ERBB2,p.Gly776_Val777insLeu,NSCLC.vcf,NM_004448.2
+ERBB2,p.Val777_Gly778insCysVal,NSCLC.vcf,NM_004448.2
+ERBB2,p.Gly778_Ser779insCysValGly,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly776delinsLeuCys),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly776delinsValCys),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Val777Leu),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Val777Met),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Val777_Gly778insCysGly),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly778dup),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Val777_Ser779dup),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly778_Pro780dup),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly778_Ser779insCysProGly),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly778_Ser779insLeuProSer),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly778dup),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Val777_Ser779dup),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Gly778_Pro780dup),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Thr798Ile),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Val842Ile),NSCLC.vcf,NM_004448.2
+ERBB2,p.Thr862Ile,NSCLC.vcf,NM_004448.2
+ERBB2,p.Leu869Arg,NSCLC.vcf,NM_004448.2
+ERBB2,p.(Arg896Cys),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Arg896His),NSCLC.vcf,NM_004448.2
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+ROS1,ROS1-CD74,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-CD74,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-EGFR,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-EGFR,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+EGFR,p.(Leu861Gln),NSCLC.vcf,NM_005228.3
+EGFR,p.(Gly719Ala),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+MET,g.116412042_116412046delinsC,NSCLC.vcf,NM_001127500.1
+MET,p.(Asp1010Asn),NSCLC.vcf,NM_001127500.1
+MET,g.116412043_116412048del,NSCLC.vcf,NM_001127500.1
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+MET,g.116412042_116412046delinsC,NSCLC.vcf,NM_001127500.1
+MET,p.(Asp1010Asn),NSCLC.vcf,NM_001127500.1
+MET,splice variant,NSCLC.vcf,NM_001127500.1
+MET,g.116412043_116412048del,NSCLC.vcf,NM_001127500.1
+BRAF,p.(Val600Glu),Glioma.vcf,NM_004333.4
+BRAF,p.(Val600Glu),Glioma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Glioma.vcf,NM_004333.4
+BRAF,BRAF-KIAA1549,BRAF_fusion.csv,NM_004333.4
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,CNV loss,Prostate_loss.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA1,CNV loss,Prostate_loss.vcf,NM_007294.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.Arg1670ThrfsTer9,Prostate.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+FGFR2,FGFR2-MGEA5,FGFR2_cholangiocarcinoma.csv,NM_022970.3
+FGFR2,FGFR2-CCDC6,FGFR2_cholangiocarcinoma.csv,NM_022970.3
+IDH2,p.(Arg172Trp),IDH2_glioma.vcf,NM_002168.2
+IDH2,p.(Arg172Gly),IDH2_glioma.vcf,NM_002168.2
+IDH2,p.(Arg172Ser),IDH2_glioma.vcf,NM_002168.2
+IDH2,p.(Arg172Met),IDH2_glioma.vcf,NM_002168.2
+IDH2,p.(Arg172Lys),IDH2_glioma.vcf,NM_002168.2
+IDH1,p.(Arg132Cys),IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.(Arg132Ser),IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.Arg132His,IDH1_cholangio.vcf,NM_005896.2
+EGFR,EGFR exon 19 deletions (NP_005219.2:p.(Thr751_Ile759delinsSer)),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,HER2 amplification,Breast_cancer.vcf,NM_004448.2
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,Prostate.vcf,NM_007294.3
+BRCA1,CNV loss,Prostate_loss.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA2,CNV loss,Prostate_loss.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.Arg1670ThrfsTer9,Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,Prostate.vcf,NM_007294.3
+BRCA1,CNV loss,Prostate_loss.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA2,p.Arg2336His,Prostate.vcf,NM_000059.3
+BRCA2,p.Leu2926Ter,Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA2,CNV loss,Prostate_loss.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,Prostate.vcf,NM_007294.3
+BRCA1,CNV loss,Prostate_loss.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA2,CNV loss,Prostate_loss.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.Arg2645LeufsTer16,Prostate.vcf,NM_000059.3
+ATM,p.(Val2424Gly),Prostate.vcf,NM_000051.3
+ATM,p.(Leu481Ter),Prostate.vcf,NM_000051.3
+ATM,p.(His1082LeufsTer14),Prostate.vcf,NM_000051.3
+ATM,p.(Ile40AsnfsTer3),Prostate.vcf,NM_000051.3
+ATM,p.(Val2716Phe),Prostate.vcf,NM_000051.3
+BARD1,p.(Gly428Ter),Prostate.vcf,NM_000465.2
+BARD1,p.(Ser288CysfsTer5),Prostate.vcf,NM_000465.2
+BARD1,p.(Cys71Tyr),Prostate.vcf,NM_000465.2
+BARD1,p.(Trp635Ter),Prostate.vcf,NM_000465.2
+BRIP1,p.(Arg251Cys),Prostate.vcf,NM_032043.2
+BRIP1,p.(Pro18LeufsTer11),Prostate.vcf,NM_032043.2
+BRIP1,p.(Trp708Ter),Prostate.vcf,NM_032043.2
+CDK12,p.(Gln598Ter),Prostate.vcf,NM_016507.2
+CDK12,p.(Gly1461AlafsTer52),Prostate.vcf,NM_016507.2
+CHEK2,p.(Glu275Ter),Prostate.vcf,NM_007194.3
+CHEK2,p.(Arg145Trp),Prostate.vcf,NM_007194.3
+CHEK2,Ile364ArgfsTer17,Prostate.vcf,NM_007194.3
+CHEK1,Gln346Ter,Prostate.vcf,NM_001114122.2
+FANCL,Arg68Ter,Prostate.vcf,NM_018062.3
+FANCL,Met247TyrfsTer4,Prostate.vcf,NM_018062.3
+FANCL,Arg10ProfsTer31,Prostate.vcf,NM_018062.3
+PALB2,Tyr1183Ter,Prostate.vcf,NM_024675.3
+PALB2,Ser489LeufsTer72,Prostate.vcf,NM_024675.3
+RAD51B,Gly203Ter,Prostate.vcf,NM_133509.3
+RAD51C,Arg258His,Prostate.vcf,NM_058216.2
+RAD51C,Glu37AsnfsTer3,Prostate.vcf,NM_058216.2
+RAD51C,Glu191Ter,Prostate.vcf,NM_058216.2
+RAD51D,Ser62Ter,Prostate.vcf,NM_002878.3
+RAD51D,Leu97ValfsTer7,Prostate.vcf,NM_002878.3
+RAD51D,Ile251AsnfsTer75,Prostate.vcf,NM_002878.3
+RAD51D,Tyr47Ter,Prostate.vcf,NM_002878.3
+RAD54L,Glu741Ter,Prostate.vcf,NM_003579.3
+BARD1,NC_000002.11:g.215595233C>T,HRR-Prostate.vcf,NM_000465.2
+BRIP1,NP_114432.2:p.(Val646PhefsTer42),HRR-Prostate.vcf,NM_032043.2
+RAD51D,NC_000017.10:g.33430565T>C,HRR-Prostate.vcf,NM_002878.3
+BRCA1,p.(Ser1715Cys),Breast_cancer.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Breast_cancer.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),Breast_cancer.vcf,NM_007294.3
+BRCA2,p.(Glu2220Ter),Breast_cancer.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Breast_cancer.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),Breast_cancer.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Breast_cancer.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Breast_cancer.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),Breast_cancer.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Breast_cancer.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Breast_cancer.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Breast_cancer.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Breast_cancer.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Breast_cancer.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),Breast_cancer.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Breast_cancer.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Breast_cancer.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Breast_cancer.vcf,NM_000059.3
+AKT1,p.Glu17Lys,Breast_cancer.vcf,NM_001014432.1
+PTEN,Arg130Ter,Breast_cancer.vcf,NM_000314.4
+PTEN,Cys124Arg,Breast_cancer.vcf,NM_000314.4
+PTEN,Arg130Gln,Breast_cancer.vcf,NM_000314.4
+PTEN,Cys124Ser,Breast_cancer.vcf,NM_000314.4
+PTEN,CNV loss,Breast_cancer.vcf,NM_000314.4
+PIK3CA,p.Arg88Gln,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Asn345Lys,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Cys420Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu542Lys,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Ala,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Asp,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Gln,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Lys,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Gly,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gln546Glu,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gln546Lys,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gln546Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gln546Pro,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Met1043Val,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Met1043Ile,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.His1047Tyr,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.His1047Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.His1047Leu,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gly1049Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Cys420Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu542Lys,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Ala,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Asp,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu545Gly,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Glu542Lys,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gln546Glu,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.Gln546Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.His1047Tyr,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.His1047Arg,Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.His1047Leu,Breast_cancer.vcf,NM_006218.2
+ESR1,p.His356Asp,Breast_cancer.vcf,NM_000125.3
+ESR1,p.(Glu380Gln),Breast_cancer.vcf,NM_000125.3
+ESR1,p.(Gly442Ala),Breast_cancer.vcf,NM_000125.3
+ESR1,p.(Ser463Pro),Breast_cancer.vcf,NM_000125.3
+ESR1,p.(Tyr537Ser),Breast_cancer.vcf,NM_000125.3
+ESR1,p.(Asp538Gly),Breast_cancer.vcf,NM_000125.3
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+FGFR2,FGFR2-MGEA5,IDH1_cholangio.vcf,NM_022970.3
+FGFR2,FGFR2-CCDC6,IDH1_cholangio.vcf,NM_022970.3
+IDH1,p.Arg132Cys,IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.Arg132Gly,IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.Arg132His,IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.Arg132Leu,IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.Arg132Ser,IDH1_cholangio.vcf,NM_005896.2
+BRAF,p.Val600Glu,Analplastic_thyroid.vcf,NM_004333.4
+KRAS,p.Gly12Arg,CRC.vcf,NM_033360.2
+KRAS,p.Gly12Asp,CRC.vcf,NM_033360.2
+KRAS,p.Gly12Ala,CRC.vcf,NM_033360.2
+KRAS,p.Gly12Cys,CRC.vcf,NM_033360.2
+KRAS,p.Gly12Ser,CRC.vcf,NM_033360.2
+KRAS,p.Gly12Val,CRC.vcf,NM_033360.2
+KRAS,p.Gly13Asp,CRC.vcf,NM_033360.2
+KRAS,p.Gln61Arg,CRC.vcf,NM_033360.2
+KRAS,p.Ala59Thr,CRC.vcf,NM_033360.2
+KRAS,p.Lys117Asn,CRC.vcf,NM_033360.2
+KRAS,p.Ala146Thr,CRC.vcf,NM_033360.2
+NRAS,p.Gly13Ser,CRC.vcf,NM_002524.4
+NRAS,p.Gly12Arg,CRC.vcf,NM_002524.4
+NRAS,p.Gln61Arg,CRC.vcf,NM_002524.4
+NRAS,p.Ala59Gly,CRC.vcf,NM_002524.4
+NRAS,p.Ala146Thr,CRC.vcf,NM_002524.4
+NRAS,p.Lys117Arg,CRC.vcf,NM_002524.4
+BRAF,p.(Val600Glu),CRC.vcf,NM_004333.4
+KRAS,Gly12Ala,CRC.vcf,NM_033360.2
+KRAS,Gly12Asp,CRC.vcf,NM_033360.2
+KRAS,Gly12Arg,CRC.vcf,NM_033360.2
+KRAS,Gly12Cys,CRC.vcf,NM_033360.2
+KRAS,Gly12Ser,CRC.vcf,NM_033360.2
+KRAS,Gly12Val,CRC.vcf,NM_033360.2
+KRAS,Gly13Asp,CRC.vcf,NM_033360.2
+KRAS,Gln61Arg,CRC.vcf,NM_033360.2
+KRAS,Ala59Thr,CRC.vcf,NM_033360.2
+KRAS,Lys117Asn,CRC.vcf,NM_033360.2
+KRAS,Ala146Thr,CRC.vcf,NM_033360.2
+NRAS,Gly13Ser,CRC.vcf,NM_002524.4
+NRAS,Gly12Arg,CRC.vcf,NM_002524.4
+NRAS,Gln61Arg,CRC.vcf,NM_002524.4
+NRAS,Ala59Gly,CRC.vcf,NM_002524.4
+NRAS,Ala146Thr,CRC.vcf,NM_002524.4
+NRAS,Lys117Arg,CRC.vcf,NM_002524.4
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+PDGFRA,p.(Asp842Val),GIST_PDGFRA.vcf,NM_006206.4
+PDGFRA,p.(Ile843_Asp846del),GIST_PDGFRA.vcf,NM_006206.4
+RET,p.(Met918Thr),MTC.vcf,NM_020975.4
+RET,p.(Asp898_Glu901del),MTC.vcf,NM_020975.4
+RET,p.(Cys634Gly),MTC.vcf,NM_020975.4
+RET,p.(Ala883Phe),MTC.vcf,NM_020975.4
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA1,CNV loss,Ovarian_loss.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),ovarian.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),ovarian.vcf,NM_007294.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,CNV loss,Ovarian_loss.vcf,NM_000059.3
+NTRK1,TGF-NTRK1,Solidtumor_NTRK_RET.csv,NM_002529.3
+NTRK1,TPM3-NTRK1,Solidtumor_NTRK_RET.csv,NM_002529.3
+NTRK2,NTRK2-RASEF,Solidtumor_NTRK_RET.csv,NM_006180.3
+NTRK2,NTRK2-AFAP1,Solidtumor_NTRK_RET.csv,NM_006180.3
+NTRK3,ETV6-NTRK3,Solidtumor_NTRK_RET.csv,NM_001012338.2
+NTRK3,EML4-NTRK3,Solidtumor_NTRK_RET.csv,NM_001012338.2
+NTRK1,TGF-NTRK1,Solidtumor_NTRK_RET.csv,NM_002529.3
+NTRK1,TPM3-NTRK1,Solidtumor_NTRK_RET.csv,NM_002529.3
+NTRK2,NTRK2-RASEF,Solidtumor_NTRK_RET.csv,NM_006180.3
+NTRK2,NTRK2-AFAP1,Solidtumor_NTRK_RET.csv,NM_006180.3
+NTRK3,EML4-NTRK3,Solidtumor_NTRK_RET.csv,NM_001012338.2
+NTRK3,ETV6-NTRK3,Solidtumor_NTRK_RET.csv,NM_001012338.2
+RET,KIF5B-RET,Solidtumor_NTRK_RET.csv,NM_020975.4
+RET,CCDC6-RET,Solidtumor_NTRK_RET.csv,NM_020975.4
+RET,KIF5B-RET,thyroidcancer_RET.csv,NM_020975.4
+RET,CCDC6-RET,thyroidcancer_RET.csv,NM_020975.4
+RET,KIF5B-RET,thyroidcancer_RET.csv,NM_020975.4
+RET,CCDC6-RET,thyroidcancer_RET.csv,NM_020975.4
+FGFR3,p.Arg248Cys c.742C>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys c.746C>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys c.1108G>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys c.1118A>G/ p.Tyr375Cys c.1124A>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys c.742C>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys c.746C>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys c.1108G>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys c.1118A>G/ p.Tyr375Cys c.1124A>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys c.742C>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys c.746C>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys c.1108G>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys c.1118A>G/ p.Tyr375Cys c.1124A>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys c.742C>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys c.746C>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys c.1108G>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys c.1118A>G/ p.Tyr375Cys c.1124A>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys c.742C>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys c.746C>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys c.1108G>T,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys c.1118A>G/ p.Tyr375Cys c.1124A>G,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+KRAS,p.(Gly12Cys),NSCLC.vcf,NM_033360.2
+KRAS,p.(Gly12Cys),NSCLC.vcf,NM_033360.2
+BRAF,p.Val600Glu,NSCLC.vcf,NM_004333.4
+RET,KIF5B-RET,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+RET,CCDC6-RET,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+RET,KIF5B-RET,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+RET,CCDC6-RET,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Lys,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Lys,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Lys,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Gly,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Lys,Melanoma.vcf,NM_004333.4
+BRAF,V600K,Melanoma.vcf,NM_004333.4
+BRAF,p.Val600Glu,Melanoma.vcf,NM_004333.4
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,amplification,ERBB2_amplification.vcf,NM_004448.2
+ROS1,ROS1-CD74,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-EGFR,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+NTRK1,NTRK1 fusion+ p.Gly595Arg,"Solid.vcf, Solidtumor_NTRK.csv",NM_002529.3
+NTRK1,NTRK1 fusion+ p.Phe589Leu,"Solid.vcf, Solidtumor_NTRK.csv",NM_002529.3
+NTRK1,NTRK1 fusion+ p.Ala608Asp,"Solid.vcf, Solidtumor_NTRK.csv",NM_002529.3
+NTRK1,NTRK1 fusion+ p.Gly667Ser,"Solid.vcf, Solidtumor_NTRK.csv",NM_002529.3
+NTRK3,NTRK3 fusion+ p.Gly623Arg,"Solid.vcf, Solidtumor_NTRK.csv",NM_001012338.2
+NTRK3,NTRK3 fusion+ p.Gly623Glu,"Solid.vcf, Solidtumor_NTRK.csv",NM_001012338.2
+NTRK1,NTRK1 fusion+ p.Gly595Arg,"Solid.vcf, Solidtumor_NTRK.csv",NM_002529.3
+NTRK3,NTRK3 fusion+ p.Gly623Arg,"Solid.vcf, Solidtumor_NTRK.csv",NM_001012338.2
+NTRK3,NTRK3 fusion+ p.Gly696Ala,"Solid.vcf, Solidtumor_NTRK.csv",NM_001012338.2
+NTRK3,NTRK3 fusion+p.Phe617Leu,"Solid.vcf, Solidtumor_NTRK.csv",NM_001012338.2
+NTRK2,NTRK2 fusion+ p.Gly639Arg,"Solid.vcf, Solidtumor_NTRK.csv",NM_006180.3
+BRCA2,NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,NC_000017.10:g.41256137A>C,Prostate.vcf,NM_007294.3
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA1,p.(Gly1788Val),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),ovarian.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),ovarian.vcf,NM_007294.3
+BRCA1,p.(Ala878ArgfsTer24),ovarian.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),ovarian.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),ovarian.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,ovarian.vcf,NM_007294.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),ovarian.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2336His),ovarian.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,ovarian.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),ovarian.vcf,NM_000059.3
+BRCA2,p.(Arg2645LeufsTer16),ovarian.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),ovarian.vcf,NM_000059.3
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+BRAF,p.Val600Glu,Solid.vcf,NM_004333.4
+NTRK1,TPM3-NTRK1,Solidtumor_NTRK.csv,NM_002529.3
+NTRK2,RASEF-NTRK2,Solidtumor_NTRK.csv,NM_006180.3
+NTRK3,ETV6-NTRK3,Solidtumor_NTRK.csv,NM_001012338.2
+ATR,p.(Gly1805Ter),PROC1.vcf,NM_001184.3
+MLH1,p.Gly67Arg,PROC1.vcf,NM_000249.3
+MLH1,p.Tyr97Ter,PROC1.vcf,NM_000249.3
+MLH1,p.Arg100Ter,PROC1.vcf,NM_000249.3
+NBN,p.Asp519GlufsTer3,PROC1.vcf,NM_002485.4
+NBN,p.Arg445Ter,PROC1.vcf,NM_002485.4
+NBN,p.Ser418Ter,PROC1.vcf,NM_002485.4
+MRE11,p.Arg572Ter,PROC1.vcf,NM_005591.3
+MRE11,p.Val167GlyfsTer21,PROC1.vcf,NM_005591.3
+FANCA,p.Asp944Ter,PROC1.vcf,NM_000135.2
+FANCA,p.Glu715Ter,PROC1.vcf,NM_000135.2
+FANCA,p.Met1?,PROC1.vcf,NM_000135.2
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.Arg1670ThrfsTer9,Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C,Prostate.vcf,NM_007294.3
+BRCA1,CNV loss,Prostate_loss.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA2,NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA2,CNV loss,Prostate_loss.vcf,NM_000059.3
+ATM,p.(Val2424Gly),Prostate.vcf,NM_000051.3
+ATM,p.(Leu481Ter),Prostate.vcf,NM_000051.3
+ATM,p.(His1082LeufsTer14),Prostate.vcf,NM_000051.3
+CDK12,p.(Gln598Ter),Prostate.vcf,NM_016507.2
+CDK12,p.(Gly1461AlafsTer52),Prostate.vcf,NM_016507.2
+CHEK2,p.(Glu275Ter),Prostate.vcf,NM_007194.3
+CHEK2,p.(Ile364ArgfsTer17),Prostate.vcf,NM_007194.3
+PALB2,p.(Tyr1183Ter),Prostate.vcf,NM_024675.3
+PALB2,p.(Ser489LeufsTer72),Prostate.vcf,NM_024675.3
+RAD51C,p.(Glu37AsnfsTer3),Prostate.vcf,NM_058216.2
+MLH1,p.(Val720CysfsTer3),HRR-Prostate.vcf,NM_000249.3
+MLH1,CNV loss,HRR-Prostate_cnv.vcf,NM_000249.3
+MLH1,NC_000003.12:37012098:GG:G,HRR-Prostate.vcf,NM_000249.3
+NBN,NC_000008.11:89955281:CC:C,HRR-Prostate.vcf,NM_002485.4
+FANCA,p.(Ser725ValfsTer69),HRR-Prostate.vcf,NM_000135.2
+FANCA,p.(Arg764Trp),HRR-Prostate.vcf,NM_000135.2
+FANCA,NC_000016.10:89748657:C:T,HRR-Prostate.vcf,NM_000135.2
+FANCA,CNV loss,HRR-Prostate_cnv.vcf,NM_000135.2
+ATM,NC_000011.10:108235668:G:A,HRR-Prostate.vcf,NM_000051.3
+ATM,p.(Ile40AsnfsTer3),Prostate.vcf,NM_000051.3
+ATM,CNV loss,HRR-Prostate_cnv.vcf,NM_000051.3
+CHEK2,CNV loss,HRR-Prostate_cnv.vcf,NM_007194.3
+CDK12,CNV loss,HRR-Prostate_cnv.vcf,NM_016507.2
+PALB2,R1117K,HRR-Prostate.vcf,NM_024675.3
+PALB2,CNV loss,HRR-Prostate_cnv.vcf,NM_024675.3
+RAD51C,CNV loss,HRR-Prostate_cnv.vcf,NM_058216.2
+KRAS,p.Gly12Cys,CRC.vcf,NM_033360.2
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+BRAF,p.Val600Glu,NSCLC.vcf,NM_004333.4
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+NRG1,NRG1-CD74,NRG1_fusion.csv,NM_013956.3
+NRG1,NRG1-CD74,NRG1_fusion.csv,NM_013956.3
+PIK3CA,p.(Glu542Lys),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(Glu545Lys),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(Glu545Gln),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(Glu545Ala),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(Glu545Gly),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(His1047Tyr),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(His1047Leu),Breast_cancer.vcf,NM_006218.2
+PIK3CA,p.(His1047Arg),Breast_cancer.vcf,NM_006218.2
+NTRK1,NTRK1 fusion+ p.Gly667Cys,ERBB2_amplification.vcf,NM_002529.3
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+KRAS,p.Gly12Cys,CRC.vcf,NM_033360.2
+EGFR,EGFR exon 19 deletions (NP_005219.2:p.(Thr751_Ile759delinsSer)),NSCLC_ROS_ALK_RET.csv,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC_ROS_ALK_RET.csv,NM_005228.3
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+ERBB2,HER2 amplification,ERBB2_amplification.vcf,NM_004448.2
+RAD54L,,CDx_negative_variants.vcf,NM_003579.3
+CDK12,,CDx_negative_variants.vcf,NM_016507.2
+BRCA1,,CDx_negative_variants.vcf,NM_007294.3
+BRCA1,,CDx_negative_variants.vcf,NM_007294.3
+EGFR,p.(Ser768Ile),Nonsquamous_NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),Nonsquamous_NSCLC.vcf,NM_005228.3
+EGFR,p.Thr751_Ile759delinsSer,Nonsquamous_NSCLC.vcf,NM_005228.3
+EGFR,p.Leu858Arg,Nonsquamous_NSCLC.vcf,NM_005228.3
+EGFR,p.(Ala767_Val769dup),NSCLC.vcf,NM_005228.3
+EGFR,p.(His773dup),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu833Val),NSCLC.vcf,NM_005228.3
+EGFR,p.(Leu858Arg),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr751_Ile759delinsSer),NSCLC.vcf,NM_005228.3
+EGFR,p.(Ser768Ile),NSCLC.vcf,NM_005228.3
+EGFR,p.(Thr790Met),NSCLC.vcf,NM_005228.3
+ERBB2,p.(Gly776delinsValCys),NSCLC.vcf,NM_004448.2
+ERBB2,p.(Tyr772_Ala775dup),NSCLC.vcf,NM_004448.2
+MET,g.116412042_116412046delinsC,NSCLC.vcf,NM_001127500.1
+MET,p.(Asp1010Asn),NSCLC.vcf,NM_001127500.1
+MET,g.116412043_116412048del,NSCLC.vcf,NM_001127500.1
+MET,g.116412042_116412046delinsC,NSCLC.vcf,NM_001127500.1
+MET,p.(Asp1010Asn),NSCLC.vcf,NM_001127500.1
+MET,g.116412043_116412048del,NSCLC.vcf,NM_001127500.1
+MET,splice variant,MET_exon14.vcf,NM_001127500.1
+MET,splice variant,MET_exon14.vcf,NM_001127500.1
+ALK,TPM4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,TPM4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+ALK,EML4-ALK,NSCLC_ROS_ALK_RET.csv,NM_004304.4
+EGFR,,NSCLC.vcf,NM_005228.3
+EGFR,,NSCLC.vcf,NM_005228.3
+IDH1,p.(Arg132Cys),IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.(Arg132Ser),IDH1_cholangio.vcf,NM_005896.2
+IDH1,p.(Arg132His),IDH1_cholangio.vcf,NM_005896.2
+FGFR2,FGFR2-MGEA5,FGFR2_cholangiocarcinoma.csv,NM_022970.3
+FGFR2,FGFR2-CCDC6,FGFR2_cholangiocarcinoma.csv,NM_022970.3
+FGFR2,FGFR2-MGEA5,FGFR2_cholangiocarcinoma.csv,NM_022970.3
+FGFR2,FGFR2-CCDC6,FGFR2_cholangiocarcinoma.csv,NM_022970.3
+BRAF,p.Val600Glu,CRC.vcf,NM_004333.4
+KRAS,Gly13Asp,CRC.vcf,NM_033360.2
+KRAS,Gly12Arg,CRC.vcf,NM_033360.2
+KRAS,Gln61Arg,CRC.vcf,NM_033360.2
+KRAS,Ala59Thr,CRC.vcf,NM_033360.2
+KRAS,Lys117Asn,CRC.vcf,NM_033360.2
+KRAS,Ala146Thr,CRC.vcf,NM_033360.2
+NRAS,Gly13Ser,CRC.vcf,NM_002524.4
+NRAS,Gly12Arg,CRC.vcf,NM_002524.4
+NRAS,Gln61Arg,CRC.vcf,NM_002524.4
+NRAS,Ala59Gly,CRC.vcf,NM_002524.4
+NRAS,Ala146Thr,CRC.vcf,NM_002524.4
+NRAS,Lys117Arg,CRC.vcf,NM_002524.4
+KRAS,Gly12Ser,CRC.vcf,NM_033360.2
+KRAS,Gly12Arg,CRC.vcf,NM_033360.2
+KRAS,Gln61Arg,CRC.vcf,NM_033360.2
+KRAS,Ala59Thr,CRC.vcf,NM_033360.2
+KRAS,Lys117Asn,CRC.vcf,NM_033360.2
+KRAS,Ala146Thr,CRC.vcf,NM_033360.2
+NRAS,Gly13Ser,CRC.vcf,NM_002524.4
+NRAS,Gly12Arg,CRC.vcf,NM_002524.4
+NRAS,Gln61Arg,CRC.vcf,NM_002524.4
+NRAS,Ala59Gly,CRC.vcf,NM_002524.4
+NRAS,Ala146Thr,CRC.vcf,NM_002524.4
+NRAS,Lys117Arg,CRC.vcf,NM_002524.4
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification/CNV >4 copy,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification/CNV >4 copy,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification/CNV >4 copy,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification/CNV >4 copy,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification/CNV >4 copy,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+PDGFRA,p.(Asp842Val),GIST_PDGFRA_D842V.vcf,NM_006206.4
+BRAF,p.(Val600Glu),Glioma.vcf,NM_004333.4
+ALK,EML4-ALK,ALK_Inflammatorymyofibroblastictumor.csv,NM_004304.4
+ALK,TPM4-ALK,ALK_Inflammatorymyofibroblastictumor.csv,NM_004304.4
+ESR1,p.(Asp538Gly),HR_positive_HER2_negative.vcf,NM_000125.3
+ESR1,p.(Glu380Gln),HR_positive_HER2_negative.vcf,NM_000125.3
+ESR1,p.(Tyr537Ser),HR_positive_HER2_negative.vcf,NM_000125.3
+ESR1,ESR1-AKAP12,HR_positive_HER2_negative.vcf,NM_000125.3
+PIK3CA,p.(Glu542Lys),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(Glu545Lys),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(His1047Arg),HR_positive_HER2_negative.vcf,NM_006218.2
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.Arg2336His,Prostate.vcf,NM_000059.3
+BRCA2,p.Leu2926Ter,Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.Arg2336His,Prostate.vcf,NM_000059.3
+BRCA2,p.Leu2926Ter,Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),Prostate.vcf,NM_000059.3
+BRCA1,CNV loss,Prostate.vcf,NM_007294.3
+BRCA2,CNV loss,Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRCA1,p.(Ala878ArgfsTer24),Prostate.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),Prostate.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),Prostate.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),Prostate.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),Prostate.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),Prostate.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),Prostate.vcf,NM_007294.3
+BRCA1,p.(Arg1670fs),Prostate.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,Prostate.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),Prostate.vcf,NM_000059.3
+BRCA2,p.(Leu398fs),Prostate.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,Prostate.vcf,NM_000059.3
+BRAF,p.Val600Gly,NSCLC.vcf,NM_004333.4
+BRAF,p.Val600Glu,NSCLC.vcf,NM_004333.4
+KRAS,p.Gly12Cys,NSCLC.vcf,NM_033360.2
+KRAS,p.Gly12Cys,NSCLC.vcf,NM_033360.2
+RET,,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+RET,,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+RET,KIF5B-RET,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+RET,CCDC6-RET,NSCLC_ROS_ALK_RET.csv,NM_020975.4
+ROS1,ROS1-EGFR,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-CD74,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-EGFR,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-CD74,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+NTRK1,,"Solidtumor_NTRK.csv, Solid.vcf",NM_002529.3
+NTRK1,,"Solidtumor_NTRK.csv, Solid.vcf",NM_002529.3
+NTRK3,,"Solidtumor_NTRK.csv, Solid.vcf",NM_001012338.2
+NTRK3,,"Solidtumor_NTRK.csv, Solid.vcf",NM_001012338.2
+NTRK3,,"Solidtumor_NTRK.csv, Solid.vcf",NM_001012338.2
+ROS1,,"NSCLC_ROS_ALK_RET.csv, NSCLC.vcf",NM_002944.2
+ROS1,,"NSCLC_ROS_ALK_RET.csv, NSCLC.vcf",NM_002944.2
+ROS1,,"NSCLC_ROS_ALK_RET.csv, NSCLC.vcf",NM_002944.2
+NTRK1,,"Solidtumor_NTRK.csv, Solid.vcf",NM_002529.3
+NTRK3,,"Solidtumor_NTRK.csv, Solid.vcf",NM_001012338.2
+NTRK3,,"Solidtumor_NTRK.csv, Solid.vcf",NM_001012338.2
+NTRK3,,"Solidtumor_NTRK.csv, Solid.vcf",NM_001012338.2
+HER2,HER2 amplification,ERBB2_amplification.vcf,
+NTRK1,NTRK1-TPM3,Solidtumor_NTRK.csv,NM_002529.3
+NTRK1,TGF-NTRK1,Solidtumor_NTRK.csv,NM_002529.3
+NTRK2,NTRK2-RASEF,Solidtumor_NTRK.csv,NM_006180.3
+NTRK3,NTRK3-ETV6,Solidtumor_NTRK.csv,NM_001012338.2
+NTRK2,NTRK2-AFAP1,Solidtumor_NTRK.csv,NM_006180.3
+NTRK3,EML4-NTRK3,Solidtumor_NTRK.csv,NM_001012338.2
+NTRK1,NTRK1-TPM3,Solidtumor_NTRK.csv,NM_002529.3
+NTRK1,TGF-NTRK1,Solidtumor_NTRK.csv,NM_002529.3
+NTRK2,NTRK2-RASEF,Solidtumor_NTRK.csv,NM_006180.3
+NTRK3,NTRK3-ETV6,Solidtumor_NTRK.csv,NM_001012338.2
+NTRK2,NTRK2-AFAP1,Solidtumor_NTRK.csv,NM_006180.3
+NTRK3,EML4-NTRK3,Solidtumor_NTRK.csv,NM_001012338.2
+RET,KIF5B-RET,RET_MTC.csv,NM_020975.4
+RET,CCDC6-RET,RET_MTC.csv,NM_020975.4
+RET,p.(Cys634Arg),MTC.vcf,NM_020975.4
+RET,p.(Ser891Ala),MTC.vcf,NM_020975.4
+RET,p.(Met918Thr),MTC.vcf,NM_020975.4
+RET,KIF5B-RET,MTC.vcf,NM_020975.4
+RET,CCDC6-RET,MTC.vcf,NM_020975.4
+RET,KIF5B-RET,MTC.vcf,NM_020975.4
+RET,CCDC6-RET,MTC.vcf,NM_020975.4
+RET,p.(Cys634Arg),MTC.vcf,NM_020975.4
+RET,p.(Ser891Ala),MTC.vcf,NM_020975.4
+RET,p.(Met918Thr),MTC.vcf,NM_020975.4
+RET,,MTC.vcf,NM_020975.4
+BRAF,p.(Val600Glu),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Lys),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Gly),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Glu),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Gly),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Lys),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Glu),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Glu),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Glu),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Glu),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Gly),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Lys),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Gly),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Lys),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Gly),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Gly),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Lys),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Lys),Melanoma.vcf,NM_004333.4
+BRAF,p.(Val600Arg),Melanoma.vcf,NM_004333.4
+AKT1,p.Glu17Lys,HR_positive_HER2_negative.vcf,NM_001014432.1
+PTEN,Arg130Ter,HR_positive_HER2_negative.vcf,NM_000314.4
+PTEN,Cys124Arg,HR_positive_HER2_negative.vcf,NM_000314.4
+PTEN,Arg130Gln,HR_positive_HER2_negative.vcf,NM_000314.4
+PTEN,Cys124Ser,HR_positive_HER2_negative.vcf,NM_000314.4
+PTEN,loss,Breast_ERBB2_PTEN_loss_amplification.vcf,NM_000314.4
+PIK3CA,p.Arg88Gln,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Asn345Lys,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Cys420Arg,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Glu542Lys,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(Glu545Ala),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Glu545Asp,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(Glu545Gln),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(Glu545Lys),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(Glu545Gly),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Gln546Glu,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Gln546Lys,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Gln546Arg,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Gln546Pro,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Met1043Val,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Met1043Ile,HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(His1047Tyr),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(His1047Arg),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.(His1047Leu),HR_positive_HER2_negative.vcf,NM_006218.2
+PIK3CA,p.Gly1049Arg,HR_positive_HER2_negative.vcf,NM_006218.2
+RET,KIF5B-RET,RET_MTC.csv,NM_020975.4
+RET,CCDC6-RET,RET_MTC.csv,NM_020975.4
+BRCA1,p.(Ala878ArgfsTer24),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Ser1715Cys),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Lys339Ter),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA2,p.(Arg2645LeufsTer16),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Gly2609Asp),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Glu2220Ter),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA1,p.(Gly1788Val),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Glu720Ter),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,p.(Arg1670ThrfsTer9),HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA1,NC_000017.10:g.41256137A>C/ c.441+2T,HR_negative_HER2_negative.vcf,NM_007294.3
+BRCA2,p.(Arg2336His),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Leu2926Ter),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,p.(Leu398ProfsTer24),HR_negative_HER2_negative.vcf,NM_000059.3
+BRCA2,c.7618-2A>G/NC_000013.10:g.32931877A>G,HR_negative_HER2_negative.vcf,NM_000059.3
+FGFR3,p.Arg248Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys /p.Gly372Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys/ p.Tyr375Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys /p.Gly372Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys/ p.Tyr375Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys /p.Gly372Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys/ p.Tyr375Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys /p.Gly372Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys/ p.Tyr375Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Arg248Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Ser249Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Gly370Cys /p.Gly372Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,p.Tyr373Cys/ p.Tyr375Cys,Urothelial_cancer.vcf,NM_000142.4
+FGFR3,FGFR3-TACC3,Urothelial_cancer.vcf,NM_000142.4
+BRAF,p.Val600Glu,NSCLC.vcf,NM_004333.4
+NTRK1,TPM3-NTRK1,Solidtumor_NTRK.csv,NM_002529.3
+NTRK2,RASEF-NTRK2,Solidtumor_NTRK.csv,NM_006180.3
+NTRK3,ETV6-NTRK3,Solidtumor_NTRK.csv,NM_001012338.2
+ROS1,ROS1-CD74,NSCLC_ROS_ALK_RET.csv,NM_002944.2
+ROS1,ROS1-EGFR,NSCLC_ROS_ALK_RET.csv,NM_002944.2

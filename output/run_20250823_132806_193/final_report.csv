@@ -1,0 +1,3 @@
+gene,variant,transcript,inferred_classification,diagnostic_assertions,prognostic_assertions,therapeutic_assertions,trial_ids,diseases,kb_version,source_file,record_id,extraction_timestamp
+ATM,,ENST00000534358.1,Unknown,,,,,Ataxia-telangiectasia (208900); Breast cancer susceptibility (114480),,tmpzyr9kf4j_clinvar_20230801.csv,record_0001,2025-08-23T13:28:06.308406
+ATM,,ENST00000534358.1,Unknown,,,,,Ataxia-telangiectasia (208900); Breast cancer susceptibility (114480),,tmpzyr9kf4j_cosmic_v97.csv,record_0002,2025-08-23T13:28:06.308417

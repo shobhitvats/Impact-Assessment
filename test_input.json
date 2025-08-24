@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-23T13:13:36",
+    "knowledge_base": "cosmic",
+    "total_variants": 1
+  },
+  "variants": [
+    {
+      "variant": "chr17:g.43044295G>A",
+      "gene": "BRCA1",
+      "transcript": "NM_007294.4",
+      "hgvsc": "c.68G>A",
+      "hgvsp": "p.Cys23Tyr",
+      "variantType": "missense",
+      "clinicalSignificance": {
+        "classification": "Pathogenic",
+        "evidence": "Strong",
+        "acmgCriteria": ["PM1", "PP3", "PS3"],
+        "confidence": "High"
+      },
+      "populationFrequency": {
+        "gnomad": {"af": 0.0001, "ac": 12, "an": 125568}
+      },
+      "functionalPredictions": {
+        "sift": {"score": 0.01, "prediction": "Deleterious"},
+        "polyphen": {"score": 0.99, "prediction": "Probably damaging"},
+        "cadd": {"phred": 28.5}
+      },
+      "diseaseAssociations": [
+        {"disease": "Breast cancer", "omim": "114480"}
+      ],
+      "therapeuticImplications": [
+        {"drug": "Olaparib", "responseType": "Sensitive"}
+      ]
+    }
+  ]
+}

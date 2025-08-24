@@ -1,0 +1,2 @@
+variant_id,gene,transcript,hgvsc,hgvsp,variant_type,clinical_significance,evidence,acmg_criteria,confidence,gnomad_af,gnomad_ac,gnomad_an,sift_score,sift_prediction,polyphen_score,polyphen_prediction,cadd_phred,diseases,therapeutic_implications
+11-108236402-C-T,ATM,ENST00000534358.1,c.1521C>T,p.(Leu507=),missense_variant,Likely Pathogenic,"PS1, PM2, PP3","PS1, PM2, PP3",Medium,1e-05,12,282830,0.02,deleterious,0.95,probably_damaging,24.1,Ataxia-telangiectasia (208900); Breast cancer susceptibility (114480),PARP inhibitors (sensitive)

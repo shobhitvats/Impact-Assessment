@@ -1,0 +1,4 @@
+##fileformat=VCFv4.2
+##INFO=<ID=CSQ,Number=.,Type=String,Description="Consequence annotations">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+11	108236402	.	C	T	100	PASS	.

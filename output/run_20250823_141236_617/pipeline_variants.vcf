@@ -1,0 +1,11 @@
+##fileformat=VCFv4.2
+##source=GenomicsAutomationPipeline
+##automationVersion=1.0.0
+##INFO=<ID=GENE,Number=1,Type=String,Description="Gene symbol">
+##INFO=<ID=TRANSCRIPT,Number=1,Type=String,Description="Transcript ID">
+##INFO=<ID=PROTEIN,Number=1,Type=String,Description="Protein change">
+##INFO=<ID=VARIANT_TYPE,Number=1,Type=String,Description="Variant classification">
+##INFO=<ID=AUTO_GENERATED,Number=0,Type=Flag,Description="Automatically generated from TransVar">
+##AUTOMATION_SCOPE=Small variants (substitutions, small indels)
+##AUTOMATION_EXCLUDED=CNV, splice, RNA/DNA fusions (require manual coordinates)
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO

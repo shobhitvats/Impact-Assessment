@@ -1,0 +1,2 @@
+variant_id,gene,transcript,hgvsc,hgvsp,variant_type,clinical_significance,evidence,acmg_criteria,confidence,gnomad_af,gnomad_ac,gnomad_an,sift_score,sift_prediction,polyphen_score,polyphen_prediction,cadd_phred,diseases,therapeutic_implications
+chr17:g.43044295G>A,BRCA1,NM_007294.4,c.68G>A,p.Cys23Tyr,missense,Pathogenic,Strong,"PM1, PP3, PS3",High,0.0001,12,125568,0.01,Deleterious,0.99,Probably damaging,28.5,Breast cancer (114480),Olaparib (Sensitive)
